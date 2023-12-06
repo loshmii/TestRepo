@@ -8,6 +8,3 @@ def main() :
     plt.show()
 
 main()
-#this is a comment will i see it on git hub??
-
-main()
